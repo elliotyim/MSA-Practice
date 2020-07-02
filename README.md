@@ -1,2 +1,4 @@
 # MSA-Practice
-Practice for Spring Microservices in Action
+
+존 카넬 저서, 스프링 마이크로서비스 코딩 공작소의 내용을 실습하기 위한 저장소
+책에서는 빌드 도구로 Maven을 사용하지만, 이를 Gradle로 변경하여 사용
